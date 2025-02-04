@@ -1,4 +1,2 @@
-![[logo.png]]
-
-# 
+![logo for edbspillet](logo.png)
 
