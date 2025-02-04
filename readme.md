@@ -1,8 +1,4 @@
----
-id: readme
-aliases: []
-tags: []
----
+![[logo.png]]
 
-![[logo.webp]]
+# 
 
